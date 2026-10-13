@@ -1,0 +1,4 @@
+
+
+class RecommendationGenerationError(Exception):
+    pass
